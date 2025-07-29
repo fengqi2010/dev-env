@@ -1,4 +1,4 @@
 {
-  "image": "debian:bullseye",
+  "image": "rust:1.85.0-bullseye",
   "features": {}
 }
